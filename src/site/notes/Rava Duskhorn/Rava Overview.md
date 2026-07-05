@@ -9,6 +9,8 @@
 [[Rava Duskhorn/Rava Details\|Details]]
 
 [[Rava Duskhorn/Rava The Church of Otar\|The Church of Otar]]
+
+[[Rava Duskhorn/Rava Short Stories\|Short Stories]]
 ### [[Navigation\|Back to Home]]
 
 #Rava
