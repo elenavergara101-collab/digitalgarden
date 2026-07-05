@@ -21,7 +21,6 @@
 -   Archia was chosen as a harbinger even before she had been born.
 { #2ed4de}
 
-
 ## Details about Istus
 -  Istus is a largely forgotten goddess. Even in documents cataloging gods and their domains, she’s only occasionally listed. In academia, there is an ongoing debate on her existence. Istus finds it amusing.
 -   As Archia’s faith grows (as she levels up) Istus’ temple in her realm grows in size.
@@ -50,12 +49,10 @@
 - Archia runs in to any family member, especially [[Archia Covenroot/Archia Character List#Elora Covenroot\|Elora]]
 - Archia is confronted by an NPC or PC about her abandoning her family
 - Archia runs into [[Archia Covenroot/Archia Character List#Taegin Canthaalor\|Taegin Canthaalor]] or someone loyal to him
-
 ## Istus
 - [[Archia Covenroot/Archia Character List#Istus\|Istus]] gives an order that Archia is extremely hesitant to [[Archia Covenroot/Archia Details#^cc5c05\|carry out]]
 - If a party member dies and is revivified: [[Archia Covenroot/Archia Character List#The Raven Queen\|The Raven Queen]] demands the debt be settled
 - Conflict with [[Archia Covenroot/Archia Character List#The Harbinger of Order\|The Harbinger of Order]]
-
 ## Mercenaries
 - Archia reunites with her [[Archia Covenroot/Archia Character List#Carodre Varak\|mentor]], [[Archia Covenroot/Archia Character List#Kyros Tolbrov\|captain]], or [[Archia Covenroot/Archia Details#Neptune's Executioner\|ship]]
 - Archia discovers [[Archia Covenroot/Archia Character List#Brayer Covenroot\|Brayer]] joined the Burden of Courage
